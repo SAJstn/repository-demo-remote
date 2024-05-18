@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../repository-demo/.git"
+			"path": "../repository-demo-remote/.git"
 		},
 		{
 			"path": "."
